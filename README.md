@@ -3,7 +3,14 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://metacentric.info/dfs)
 
+
 Here multiple dyanmic fields are implemented with ajax functionaliy also having file upload options in each dynamically added field.Also the validation is done.
+
+![Dynamic Field](https://i.ibb.co/qC1Gv1f/ui2.png)
+
+![Image description](https://i.ibb.co/Sd8SfZC/ui5.png)
+
+![Image description](https://i.ibb.co/dmvs8Gq/ui3.png)
 # Features:
   - Multiple Dynamic Fields
   - Ajax functionality with validation
