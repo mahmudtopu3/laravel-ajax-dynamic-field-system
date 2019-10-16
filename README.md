@@ -6,7 +6,7 @@
 
 Here multiple dyanmic fields are implemented with ajax functionaliy also having file upload options in each dynamically added field.Also the validation is done.
 
-![Image description](https://ibb.co/TbSyWN3)
+![Image description](https://i.ibb.co/4YGk10r/ui5.png)
 
 ![Image description](https://i.ibb.co/dmvs8Gq/ui3.png)
 # Features:
